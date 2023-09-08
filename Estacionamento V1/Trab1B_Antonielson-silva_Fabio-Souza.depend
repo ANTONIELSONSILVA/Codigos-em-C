@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1621216970 source:c:\users\antonio\desktop\trab1b_antonielson-silva_fabio-souza\auxliares.c
+	"Auxliares.h"
+
+1621216766 c:\users\antonio\desktop\trab1b_antonielson-silva_fabio-souza\auxliares.h
+	"Lista.h"
+	"deque.h"
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1621216882 c:\users\antonio\desktop\trab1b_antonielson-silva_fabio-souza\lista.h
+	"Pilha.h"
+	<stdlib.h>
+
+1621216915 c:\users\antonio\desktop\trab1b_antonielson-silva_fabio-souza\pilha.h
+	"Lista.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1621216829 c:\users\antonio\desktop\trab1b_antonielson-silva_fabio-souza\deque.h
+	"Pilha.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+
+1621217001 source:c:\users\antonio\desktop\trab1b_antonielson-silva_fabio-souza\deque.c
+	"deque.h"
+
+1621217033 source:c:\users\antonio\desktop\trab1b_antonielson-silva_fabio-souza\lista.c
+	"Lista.h"
+
+1621216688 source:c:\users\antonio\desktop\trab1b_antonielson-silva_fabio-souza\main.c
+	<locale.h>
+	"deque.h"
+	"Lista.h"
+	"Auxliares.h"
+
+1621217121 source:c:\users\antonio\desktop\trab1b_antonielson-silva_fabio-souza\pilha.c
+	"Pilha.h"
+

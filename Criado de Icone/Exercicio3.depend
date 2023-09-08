@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1618175667 source:c:\users\antonio\desktop\exercicio3\icone.c
+	"stdlib.h"
+	"stdio.h"
+	"icone.h"
+	"time.h"
+
+1618175044 c:\users\antonio\desktop\exercicio3\icone.h
+
+1618175004 source:c:\users\antonio\desktop\exercicio3\main.c
+	<stdlib.h>
+	<stdio.h>
+	"icone.h"
+
+1618175667 source:c:\users\antonio\desktop\trab1b_antonielson-silva_fabio-souza\exercicio3\icone.c
+	"stdlib.h"
+	"stdio.h"
+	"icone.h"
+	"time.h"
+
+1618175044 c:\users\antonio\desktop\trab1b_antonielson-silva_fabio-souza\exercicio3\icone.h
+
+1618183528 source:c:\users\antonio\desktop\trab1b_antonielson-silva_fabio-souza\exercicio3\main.c
+	<stdlib.h>
+	<stdio.h>
+	"icone.h"
+
+1618175667 source:c:\users\antonio\desktop\nova pasta\trab1b_antonielson-silva_fabio-souza\exercicio3\icone.c
+	"stdlib.h"
+	"stdio.h"
+	"icone.h"
+	"time.h"
+
+1618175044 c:\users\antonio\desktop\nova pasta\trab1b_antonielson-silva_fabio-souza\exercicio3\icone.h
+
+1618188876 source:c:\users\antonio\desktop\nova pasta\trab1b_antonielson-silva_fabio-souza\exercicio3\main.c
+	<stdlib.h>
+	<stdio.h>
+	"icone.h"
+
